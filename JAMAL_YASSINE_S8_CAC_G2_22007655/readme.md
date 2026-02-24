@@ -3,12 +3,12 @@
 ## 📋 Informations personnelles
 
 ---
-<img src="HOUTATE_SAID.jpeg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
+<img src="JAMAL_YASSINE_S8_CAC_G2_22007655/JAMAL YASSINE CAC2.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
 ---
 
-**Nom complet** : **HOUTATE Saïd**  
+**Nom complet** : **JAMAL Yassine**  
 **Classe** : **S8 CAC G2**  
-**Apogée** : **24010355**  
+**Apogée** : **22007655**  
 
 
 ## 🔧 Modifications techniques apportées
