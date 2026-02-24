@@ -3,7 +3,7 @@
 ## 📋 Informations personnelles
 
 ---
-<img src="JAMAL_YASSINE_S8_CAC_G2_22007655/JAMAL YASSINE CAC2.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
+<img src="JAMAL YASSINE CAC2.jpg" style="height:1000px;margin-right:1000px; float:left; border-radius:10px;"/>
 ---
 
 **Nom complet** : **JAMAL Yassine**  
